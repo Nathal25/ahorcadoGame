@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="">
+    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="Nuevos cambios de prueba3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/controller/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/crapsgame/welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/crapsgame/welcome-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +33,7 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -80,11 +80,26 @@
       <workItem from="1709838855730" duration="475000" />
       <workItem from="1710102424864" duration="3978000" />
       <workItem from="1710360911403" duration="12820000" />
-      <workItem from="1710388808656" duration="71000" />
+      <workItem from="1710388808656" duration="298000" />
+      <workItem from="1710433614078" duration="2182000" />
+      <workItem from="1710436362993" duration="4267000" />
     </task>
+    <task id="LOCAL-00001" summary="Nuevos cambios de prueba3">
+      <option name="closed" value="true" />
+      <created>1710389010717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710389010717</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nuevos cambios de prueba3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nuevos cambios de prueba3" />
   </component>
 </project>
