@@ -14,6 +14,7 @@ public class GameController {
     private TextArea salidatextarea;
     @FXML
     public void onHandleButtonPlay(ActionEvent event) {
+        String secretWord="Vida";
         String nickName=nicknameTextField.getText();
         String msg="Welcome: "+nickName;
         salidatextarea.setText(msg);
@@ -21,6 +22,6 @@ public class GameController {
     @FXML
     public void onKetNicknameTextField(KeyEvent event) {
         String key = event.getText();
-        System.out.println();
+        System.out.println(key);
     }
 }
