@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="Archivos distribuidos en las carpetas pertinentes,hay algo extraño con el game-view pero no identifico el que">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/Model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Model/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/WelcomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/GameStage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/crapsgame/view/WelcomeStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/WelcomeStage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/crapsgame/welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/welcome-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="Archivos distribuidos en las carpetas pertinentes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +107,7 @@
       <workItem from="1710528353856" duration="3039000" />
       <workItem from="1710704061204" duration="195000" />
       <workItem from="1710799878695" duration="7219000" />
-      <workItem from="1710814088539" duration="1340000" />
+      <workItem from="1710814088539" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="Nuevos cambios de prueba3">
       <option name="closed" value="true" />
@@ -151,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710814287841</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Archivos distribuidos en las carpetas pertinentes">
+      <option name="closed" value="true" />
+      <created>1710815735405</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710815735405</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +159,7 @@
     <MESSAGE value="Nuevos cambios de prueba3" />
     <MESSAGE value="Nuevos cambios Tarea agregada" />
     <MESSAGE value="Archivos distribuidos en las carpetas pertinentes,hay algo extraño con el game-view pero no identifico el que" />
-    <option name="LAST_COMMIT_MESSAGE" value="Archivos distribuidos en las carpetas pertinentes,hay algo extraño con el game-view pero no identifico el que" />
+    <MESSAGE value="Archivos distribuidos en las carpetas pertinentes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Archivos distribuidos en las carpetas pertinentes" />
   </component>
 </project>
