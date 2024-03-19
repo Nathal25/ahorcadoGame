@@ -1,4 +1,4 @@
-package com.example.crapsgame.view;
+package org.example.crapsgame.view;
 
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -11,7 +11,7 @@ public class WelcomeStage extends Stage {
     private WelcomeStage welcomeStage;
 
     public WelcomeStage() throws IOException {
-        FXMLLoader loader=new FXMLLoader(getClass().getResource("/com/example/crapsgame/welcome-view.fxml"));
+        FXMLLoader loader=new FXMLLoader(getClass().getResource("/org/example/crapsgame/welcome-view.fxml"));
         Parent parent = loader.load();
         setTitle("CrapsGame");
         Scene scene=new Scene(parent);

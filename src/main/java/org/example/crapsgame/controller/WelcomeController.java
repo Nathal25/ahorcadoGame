@@ -1,11 +1,20 @@
-package com.example.crapsgame.controller;
+package org.example.crapsgame.controller;
 
-import com.example.crapsgame.Model.Player;
-import com.example.crapsgame.view.GameStage;
+import javafx.application.Platform;
 import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.fxml.FXML;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyEvent;
+import javafx.scene.input.MouseEvent;
+import javafx.stage.Stage;
+import javafx.stage.WindowEvent;
+import org.example.crapsgame.Model.Player;
+import org.example.crapsgame.view.GameStage;
+import org.example.crapsgame.view.WelcomeStage;
+
 
 import java.io.IOException;
 
@@ -34,14 +43,7 @@ public class WelcomeController {
         System.out.println(finalWord);
         Player player=new Player(1,finalWord);
         GameStage.getInstance().getGameController().setPlayer(player);
-/*      textArea.setText(finalWord);
 
-        if(finalWord.equals(secretWord)){
-            textArea.setText("Felicidades, haz encontrado la palabra secreta!");
-        }else {
-            textArea.setText("Sigue intentando");
-        }
-*/
     }
 
     @FXML

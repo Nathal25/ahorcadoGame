@@ -3,9 +3,9 @@ module com.example.crapsgame {
     requires javafx.fxml;
 
 
-    opens com.example.crapsgame to javafx.fxml;
-    opens com.example.crapsgame.controller to javafx.fxml;
-    exports com.example.crapsgame;
+    opens org.example.crapsgame to javafx.fxml;
+    opens org.example.crapsgame.controller to javafx.fxml;
+    exports org.example.crapsgame;
 
 
 

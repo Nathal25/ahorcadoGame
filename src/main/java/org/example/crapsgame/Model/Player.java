@@ -1,4 +1,4 @@
-package com.example.crapsgame.Model;
+package org.example.crapsgame.Model;
 
 public class Player {
     private int id;

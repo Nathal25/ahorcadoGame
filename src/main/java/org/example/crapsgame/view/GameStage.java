@@ -1,6 +1,6 @@
-package com.example.crapsgame.view;
+package org.example.crapsgame.view;
 
-import com.example.crapsgame.controller.GameController;
+import org.example.crapsgame.controller.GameController;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -12,8 +12,9 @@ public class GameStage extends Stage {
     private GameController gameController;
 
     public GameStage() throws IOException {
-        FXMLLoader loader=new FXMLLoader(getClass().getResource("/com/example/crapsgame/game-view.fxml"));
+        FXMLLoader loader=new FXMLLoader(getClass().getResource("/org/example/crapsgame/game-view.fxml"));
         Parent root = loader.load();
+        gameController=loader.getController();
         setTitle("CrapsGame");
         Scene scene=new Scene(root);
         setScene(scene);
