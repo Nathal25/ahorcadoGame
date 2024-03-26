@@ -1,19 +1,11 @@
 package org.example.crapsgame.controller;
 
-import javafx.application.Platform;
 import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
 import javafx.fxml.FXML;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.input.KeyEvent;
-import javafx.scene.input.MouseEvent;
-import javafx.stage.Stage;
-import javafx.stage.WindowEvent;
-import org.example.crapsgame.Model.Player;
+import org.example.crapsgame.model.Player;
 import org.example.crapsgame.view.GameStage;
-import org.example.crapsgame.view.WelcomeStage;
 
 
 import java.io.IOException;

@@ -1,7 +1,7 @@
 package org.example.crapsgame.controller;
 
 
-import org.example.crapsgame.Model.Player;
+import org.example.crapsgame.model.Player;
 
 public class GameController {
     private Player player;
