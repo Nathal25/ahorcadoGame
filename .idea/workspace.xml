@@ -4,13 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="Archivos distribuidos en las carpetas pertinentes">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/game-view.fxml" afterDir="false" />
+    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="colocandotodonuevo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/alert/AlertBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/alert/IAlertBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/model/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/GameController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/WelcomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/GameStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/WelcomeStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/WelcomeStage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/game-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/game-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/welcome-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Record" />
         <option value="JavaFXApplication" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -120,7 +123,7 @@
       <workItem from="1710814088539" duration="1888000" />
       <workItem from="1710881232867" duration="72000" />
       <workItem from="1711490098413" duration="1756000" />
-      <workItem from="1711492890358" duration="1015000" />
+      <workItem from="1711492890358" duration="6044000" />
     </task>
     <task id="LOCAL-00001" summary="Nuevos cambios de prueba3">
       <option name="closed" value="true" />
@@ -170,7 +173,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710881290408</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="colocandotodonuevo">
+      <option name="closed" value="true" />
+      <created>1711494486605</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711494486605</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +193,7 @@
     <MESSAGE value="Nuevos cambios Tarea agregada" />
     <MESSAGE value="Archivos distribuidos en las carpetas pertinentes,hay algo extraño con el game-view pero no identifico el que" />
     <MESSAGE value="Archivos distribuidos en las carpetas pertinentes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Archivos distribuidos en las carpetas pertinentes" />
+    <MESSAGE value="colocandotodonuevo" />
+    <option name="LAST_COMMIT_MESSAGE" value="colocandotodonuevo" />
   </component>
 </project>

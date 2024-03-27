@@ -20,13 +20,19 @@ public class GameStage extends Stage {
         setScene(scene);
         show();
     }
-    private static class GameStageHolder{
-        private static GameStage INSTANCE;
+    public GameController getGameController(){
+        return gameController;
     }
-    public static GameStage getInstance() throws IOException {
+
+    public static GameStage getInstance() throws IOException{
         return GameStageHolder.INSTANCE = new GameStage();
     }
-    public GameController getGameController() {
-        return gameController;
+    public static void deleteInstance() {
+        GameStageHolder.INSTANCE.close();
+        GameStageHolder.INSTANCE = null;
+    }
+
+    private static class GameStageHolder {
+        private static GameStage INSTANCE;
     }
 }

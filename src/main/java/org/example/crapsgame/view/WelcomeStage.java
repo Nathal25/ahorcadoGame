@@ -25,5 +25,9 @@ public class WelcomeStage extends Stage {
     public static WelcomeStage getInstance() throws IOException {
         return WelcomeStageHolder.INSTANCE = new WelcomeStage();
     }
+    public static void deleteInstance() {
+        WelcomeStageHolder.INSTANCE.close();
+        WelcomeStageHolder.INSTANCE = null;
+    }
 
 }
