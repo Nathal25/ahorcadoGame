@@ -7,11 +7,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 public class Main extends Application {
-    //Verificando conexion
-    //Prueba respecto a cambios
-    //Prueba conexion 2 auxiliosdfa
-    //prueba final
-    //I AM SARA BORED
+    //Todo bien
     public static void main(String[] args) {launch(args);}
     @Override
     public void start(Stage primaryStage) throws IOException {
