@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0114f1-110c-4b83-ad26-ce236972e741" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" afterDir="false" />
+    <list default="true" id="1a0114f1-110c-4b83-ad26-ce236972e741" name="Changes" comment="basjubfjoas">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "nog",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -72,11 +76,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711510055968</updated>
-      <workItem from="1711510057044" duration="64000" />
+      <workItem from="1711510057044" duration="1379000" />
     </task>
+    <task id="LOCAL-00001" summary="basjubfjoas">
+      <option name="closed" value="true" />
+      <created>1711510145259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711510145259</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basjubfjoas" />
+    <option name="LAST_COMMIT_MESSAGE" value="basjubfjoas" />
   </component>
 </project>
