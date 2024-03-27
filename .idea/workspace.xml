@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0114f1-110c-4b83-ad26-ce236972e741" name="Changes" comment="basjubfjoas">
+    <list default="true" id="1a0114f1-110c-4b83-ad26-ce236972e741" name="Changes" comment="edererer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,51 +24,31 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eFpCnrA0G10ahI20onwPNDdE5R" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "nog",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;nog&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ahorcadoGame" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ahorcadoGame" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basjubfjoas" />
-    <option name="LAST_COMMIT_MESSAGE" value="basjubfjoas" />
+    <MESSAGE value="edererer" />
+    <option name="LAST_COMMIT_MESSAGE" value="edererer" />
   </component>
 </project>
