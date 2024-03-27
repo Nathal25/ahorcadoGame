@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="colocandotodonuevo">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/alert/AlertBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/alert/IAlertBox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/GameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/WelcomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/controller/WelcomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/GameStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/GameStage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/WelcomeStage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/crapsgame/view/WelcomeStage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/game-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/game-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/welcome-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/crapsgame/welcome-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="a569f9eb-014d-42ba-86f6-6f554337ff2a" name="Changes" comment="edererer" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -91,6 +86,19 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.example.crapsgame" />
       <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="CrapsGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="CrapsGame" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
