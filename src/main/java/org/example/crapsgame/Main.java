@@ -9,7 +9,7 @@ import java.io.IOException;
 public class Main extends Application {
     //Verificando conexion
     //Prueba respecto a cambios
-    //Prueba conexion 2 auxilio
+    //Prueba conexion 2 auxiliosdfa
     public static void main(String[] args) {launch(args);}
     @Override
     public void start(Stage primaryStage) throws IOException {
